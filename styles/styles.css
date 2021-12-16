@@ -1,0 +1,62 @@
+html, body {
+    /* Sets default font-size to 16px, ensuring 1em = 16px; */
+    font-size: 16px;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #caffbf;
+
+  }
+
+
+
+h1 {
+      text-align: center;
+      font-size: 35px;
+      font-family: 'Oswald', sans-serif;
+      color: #14213d;
+      margin-bottom: 1%
+    }
+
+h3 {
+      font-family: 'Cabin', sans-serif;
+      text-align: center;
+      color: #14213d;
+      margin-top: 1%;
+
+    }
+
+h4 {
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  color: #14213d;
+  margin-top: 1%;
+  margin-bottom: 5%;
+}
+
+iframe {
+  background-color: #f8edeb;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  padding: 20px
+}
+
+figure {
+  margin:auto
+}
+
+img{
+  width: 100%;
+}
+
+figcaption {
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  font-family: 'Varela Round', sans-serif;
+}
+
+li{
+  font-family: 'Varela Round', sans-serif;
+}
